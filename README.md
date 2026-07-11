@@ -1,4 +1,6 @@
-This project was completed as part of my CSC 305 course at the University of Victoria. The assignment provided some starter code and requirements, and I implemented the remaining functionality, including designing and creating the entire scene.
+# Astronaut Animation
+
+Interactive JavaScript animation depicting an astronaut floating through space alongside a jellyfish. Built using JavaScript to create and control animated visual elements, demonstrating experience with graphics programming, animation logic, and interactive web development. It was completed as part of my CSC 305 course at the University of Victoria. The assignment provided some starter code and requirements, and I implemented the remaining functionality, including designing and creating the entire scene.
 
 To run:
 	Simply open main.html and click "Toggle Animation"
